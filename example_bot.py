@@ -2,7 +2,7 @@ import asyncio
 
 from bonk_bot import bonk_guest_login, Game, Message
 
-bot = bonk_guest_login("Safizapi")
+bot = bonk_guest_login("Fenekiro")
 bot.main_avatar = bot.avatars[1]
 
 
