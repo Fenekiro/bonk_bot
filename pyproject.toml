@@ -10,8 +10,8 @@ description = "Python API wrapper for bonk.io web game."
 readme = "README.md"
 license = {file = "LICENSE"}
 
-authors = [{name = "Safizapi"}]
-maintainers = [{name = "Safizapi"}]
+authors = [{name = "Fenekiro"}]
+maintainers = [{name = "Fenekiro"}]
 
 dependencies = [
     "python-engineio==3.14.2",
