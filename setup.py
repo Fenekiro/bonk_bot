@@ -9,6 +9,6 @@ setup(
     description="Python API wrapper for bonk.io web game.",
     license="MIT",
     long_description=long_description,
-    author="Safizapi",
+    author="Fenekiro",
     packages=find_packages(exclude=["tests"])
 )
