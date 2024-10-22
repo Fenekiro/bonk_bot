@@ -16,7 +16,7 @@ maintainers = [{name = "Fenekiro"}]
 dependencies = [
     "python-engineio==3.14.2",
     "python-socketio==4.6.0",
-    "aiohttp==3.9.5",
+    "aiohttp==3.10.2",
     "requests==2.32.3",
     "nest-asyncio==1.6.0",
     "pymitter==0.5.1",
