@@ -6,12 +6,7 @@ Supported python versions: 3.8+
 - Different bonk.io servers support
 - Event-based (discord.py-like events)
 ## Installing
-**Python 3.8 and higher required**
-
-Go to your project's terminal and run the following command:
-```
-pip install bonk_bot
-```
+Package is currently unavailable on PyPI
 ## Bot example
 
 ```py
